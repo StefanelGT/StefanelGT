@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @StefanelGT
-- 👀 I’m interested in GorillaTagMods
-- 🌱 I’m currently learning Gorilla tag Mods And FanGames
+- 👀 I’m interested in Google Extensions
